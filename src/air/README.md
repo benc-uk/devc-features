@@ -1,5 +1,5 @@
 
-# Air - Live reload for Go apps (air)
+# Air, live reload for Go apps (air)
 
 Installs Air, a live reload tool for Go apps
 
@@ -15,7 +15,7 @@ Installs Air, a live reload tool for Go apps
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| version | Select version of Air to install, or choose 'latest' | string | latest |
+| version | Select version to install, or choose 'latest' | string | latest |
 
 
 
