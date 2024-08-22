@@ -1,5 +1,5 @@
 {
-  "name": "Air - Live reload for Go apps",
+  "name": "Air, live reload for Go apps",
   "id": "air",
   "version": "1.0.0",
   "description": "Installs Air, a live reload tool for Go apps",
@@ -8,7 +8,7 @@
       "type": "string",
       "proposals": ["latest", "v1.52.3"],
       "default": "latest",
-      "description": "Select version of Air to install, or choose 'latest'"
+      "description": "Select version to install, or choose 'latest'"
     }
   }
 }

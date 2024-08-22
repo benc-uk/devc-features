@@ -1,0 +1,23 @@
+{
+  "name": "httpYac, a tool to send network requests",
+  "id": "httpyac",
+  "version": "1.0.0",
+  "description": "Installs httpYac, a tool to send REST, SOAP, GraphQL and gRPC requests",
+  "options": {
+    "version": {
+      "type": "string",
+      "proposals": ["latest", "6.14.0"],
+      "default": "latest",
+      "description": "Select version to install, or choose 'latest'"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": ["anweber.vscode-httpyac"]
+    }
+  },
+  "dependsOn": {
+    "ghcr.io/devcontainers/features/node:1": {}
+  },
+  "installsAfter": ["ghcr.io/devcontainers/features/node"]
+}
