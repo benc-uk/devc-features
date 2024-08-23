@@ -27,4 +27,4 @@ Installs httpYac, a tool to send REST, SOAP, GraphQL and gRPC requests
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/benc-uk/devc-features/blob/main/src/httpyac/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
